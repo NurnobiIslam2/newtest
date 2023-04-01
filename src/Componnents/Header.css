@@ -1,0 +1,15 @@
+.nav-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content:space-between;
+    align-content: center;
+    align-items: center;
+    background-color:goldenrod;
+    height: 30px;
+}
+.nav-nam{
+    margin-right: 5px;
+}
+.login{
+    margin-left: 330px;
+}

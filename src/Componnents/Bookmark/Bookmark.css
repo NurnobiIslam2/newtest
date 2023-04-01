@@ -1,0 +1,11 @@
+.book-container{
+    margin-left: 100px;
+    margin-top: 0;
+    background-color: rgba(17, 17, 17, 0.05);
+    text-align: center;
+    height: 300px;
+    border-radius: 10px;
+    position: sticky;
+    top:0px;
+}
+
